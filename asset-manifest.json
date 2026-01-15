@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tempopay-ui/static/css/main.e6c13ad2.css",
+    "main.js": "/tempopay-ui/static/js/main.19c25870.js",
+    "static/js/453.506eb4a2.chunk.js": "/tempopay-ui/static/js/453.506eb4a2.chunk.js",
+    "index.html": "/tempopay-ui/index.html",
+    "main.e6c13ad2.css.map": "/tempopay-ui/static/css/main.e6c13ad2.css.map",
+    "main.19c25870.js.map": "/tempopay-ui/static/js/main.19c25870.js.map",
+    "453.506eb4a2.chunk.js.map": "/tempopay-ui/static/js/453.506eb4a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.19c25870.js"
+  ]
+}
